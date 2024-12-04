@@ -1,5 +1,5 @@
 # Building this new images on top of the base image that stored in our artifactory
-FROM obarzik/docker-workshop:node
+FROM omribarzik/docker-workshop:node
 
 # Copy the service code into the /app directory of the container
 # REPLACE ME
